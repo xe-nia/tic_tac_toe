@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7abef9a-6b7d-411a-abab-1fd83cb3cada" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticTacToe/FXMLController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticTacToe/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticTacToe/scene.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticTacToe/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +34,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Program Files (x86)/Java/javafx-sdk-21.0.3/lib",
+    "last_opened_file_path": "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.1.1/lib/hamcrest-2.2.jar",
     "onboarding.tips.debug.path": "C:/Users/janze/IdeaProjects/TicTacToe/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.externalResources"
@@ -80,6 +77,17 @@
       <updated>1719143816912</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

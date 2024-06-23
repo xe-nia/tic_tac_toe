@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7abef9a-6b7d-411a-abab-1fd83cb3cada" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ticTacToe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ticTacToe/Spielfeld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main/java/ticTacToe/MainSollte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main/java/ticTacToe/SpielfeldSollte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/production/TicTacToe/main/java/ticTacToe/FXMLController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/production/TicTacToe/main/java/ticTacToe/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/production/TicTacToe/main/java/ticTacToe/scene.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/production/TicTacToe/main/java/ticTacToe/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/production/TicTacToe/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/mods/production/TicTacToe/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ticTacToe/FXMLController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/FXMLController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ticTacToe/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ticTacToe/scene.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/scene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ticTacToe/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +30,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
-        <option value="JavaFXApplication" />
         <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -34,6 +48,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.1.1/lib/hamcrest-2.2.jar",
     "onboarding.tips.debug.path": "C:/Users/janze/IdeaProjects/TicTacToe/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -42,9 +57,14 @@
     "settings.editor.selected.configurable": "preferences.externalResources"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\janze\IdeaProjects\TicTacToe\src\main\java\demo" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.ticTacToe.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="main.java.demo.MainApp" />
       <module name="TicTacToe" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files (x86)\Java\javafx-sdk-21.0.3\lib;C:\Users\janze\IdeaProjects\TicTacToe\mods\production&quot; --add-modules=javafx.controls,javafx.fxml" />
       <method v="2">

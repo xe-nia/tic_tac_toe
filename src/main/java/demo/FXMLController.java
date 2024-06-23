@@ -1,4 +1,4 @@
-package main.java.ticTacToe;
+package main.java.demo;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
